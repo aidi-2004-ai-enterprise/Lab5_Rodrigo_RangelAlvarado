@@ -1,5 +1,15 @@
 # Lab 5 Report
 
+Hi Bipin, besides the Python file, I made a Jupyter Notebook because it is easier to visualize the graphs and the outputs, but both files are essentially the same code.
+
+# Part 1:
+
+![Part1](Part1.gif)
+
+# Part 2:
+
+![Part2](Part2.gif)
+
 ## 1. EDA and Insights
 
 + Class imbalance: The dataset is highly skewed toward non-bankrupt companies, requiring specific strategies for minority class handling.
